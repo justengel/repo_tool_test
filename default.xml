@@ -1,7 +1,7 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <manifest>
     <remote name="origin" fetch="https://github.com/justengel"/>
-    <remote name="justengel-web" fetch="https://github.com/justengel-web">
+    <remote name="justengel-web" fetch="https://github.com/justengel-web"/>
 
     <default remote="origin" revision="master"/>
 
