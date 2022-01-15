@@ -1,13 +1,13 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <manifest>
-    <remote name="origin" fetch="https://github.com/justengel/repo_tool_test">
-    <remote name="resource_man" fetch="https://github.com/justengel/resource_man">
-    <remote name="qt_thread_updater" fetch="https://github.com/justengel/qt_thread_updater">
-    <remote name="shell_proc" fetch="https://github.com/justengel/shell_proc">
+    <remote name="origin" fetch="https://github.com/justengel/repo_tool_test"/>
+    <remote name="resource_man" fetch="https://github.com/justengel/resource_man"/>
+    <remote name="qt_thread_updater" fetch="https://github.com/justengel/qt_thread_updater"/>
+    <remote name="shell_proc" fetch="https://github.com/justengel/shell_proc"/>
 
-    <default remote="origin" revision="master">
+    <default remote="origin" revision="master"/>
 
-    <project name="resource_man" path="resource_man" revision="master">
-    <project name="qt_thread_updater" path="qt_thread_updater" revision="master">
-    <project name="shell_proc" path="sub/shell_proc" revision="ee561540a9ca223aa592d04bc2ca3eef237bd442">
+    <project name="resource_man" path="resource_man" revision="master"/>
+    <project name="qt_thread_updater" path="qt_thread_updater" revision="master"/>
+    <project name="shell_proc" path="sub/shell_proc" revision="ee561540a9ca223aa592d04bc2ca3eef237bd442"/>
 </manifest>
